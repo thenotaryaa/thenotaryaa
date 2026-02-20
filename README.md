@@ -1,2 +1,2 @@
-## Hi there 👋
-<img src="thenotarya-baner.png">
+## Hey!
+<img src="https://github.com/thenotaryaa/thenotaryaa/blob/main/thenotarya-banner.png">
